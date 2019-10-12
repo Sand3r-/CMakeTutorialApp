@@ -1,4 +1,4 @@
-#include "math.h"
+#include "math_funcs.h"
 
 int main() {
 	float value = 2.0f;

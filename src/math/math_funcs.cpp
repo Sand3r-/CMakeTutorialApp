@@ -1,4 +1,4 @@
-#include "math.h"
+#include "math_funcs.h"
 
 float* inverse(float* x, int count) {
     #pragma parallel for
